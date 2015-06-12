@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MaterialProgressBarCircle.iml" filepath="$PROJECT_DIR$/MaterialProgressBarCircle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaterialCircleProgressBar.iml" filepath="$PROJECT_DIR$/MaterialCircleProgressBar.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
-
